@@ -61,5 +61,5 @@ MainWindow::~MainWindow()
 ```
 
 ## Auteur 
-(`Métus Carnel M. GBOGBOHOUNDADA `)
+[ Métus Carnel M. GBOGBOHOUNDADA ]
 Étudiant en 3ième année de licence en Informatique de Gestion spécialité  Administration des Réseaux Informatiques à l'ENEAM à l'UAC.
